@@ -2,7 +2,7 @@
 <h3 align="center">PHP MySQL Connection Checker</h3>
 
   <p align="center">
-    A simple tool to check your SMTP is working, built in PHP.
+    A simple tool to check you can connect to your MySQL server, built in PHP.
     <br />
     <br />
     <a href="https://harrisonr.uk/projects/php-mysql-connection-checker">View Demo</a>
@@ -38,4 +38,4 @@ Harrison Ratcliffe<br>
 Project Link: [https://github.com/harrisonratcliffe/php-mysql-connection-checker](https://github.com/harrisonratcliffe/php-mysql-connection-checker)
 
 
-[product-screenshot]: https://i.hcloud.uk/TiyAyh
+[product-screenshot]: https://i.hcloud.uk/tBfGxG
