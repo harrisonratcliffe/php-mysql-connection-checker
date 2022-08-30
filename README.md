@@ -5,7 +5,7 @@
     A simple tool to check you can connect to your MySQL server, built in PHP.
     <br />
     <br />
-    <a href="https://harrisonr.uk/projects/php-mysql-connection-checker">View Demo</a>
+    <a href="https://demo.harrisonr.uk/php-mysql-connection-checker">View Demo</a>
     ·
     <a href="https://github.com/harrisonratcliffe/php-mysql-connection-checker/issues">Report Bug</a>
     ·
