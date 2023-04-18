@@ -38,4 +38,4 @@ Harrison Ratcliffe<br>
 Project Link: [https://github.com/harrisonratcliffe/php-mysql-connection-checker](https://github.com/harrisonratcliffe/php-mysql-connection-checker)
 
 
-[product-screenshot]: https://i.hcloud.uk/tBfGxG
+[product-screenshot]: https://raw.githubusercontent.com/harrisonratcliffe/images/main/php-mysql-connection-checker.png
